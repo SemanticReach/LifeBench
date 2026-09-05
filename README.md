@@ -2,7 +2,7 @@
 
 We evaluated HyperBinder on **LifeBench**, a benchmark designed to assess long-term memory, real-world knowledge retention, and consistent retrieval across evolving contexts.
 
-HyperBinder achieved a ** 99% accuracy**, demonstrating complete recall across all evaluated queries.
+HyperBinder achieved a **99% accuracy**, demonstrating complete recall across all evaluated queries.
 
 ## About LifeBench
 
